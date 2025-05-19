@@ -8,7 +8,7 @@ namespace _00.Demo
         {
             for (int i = 0; i < 99; i++)
             {
-                Console.WriteLine("Welcome to the Jungle", i);
+                Console.WriteLine(i);
             }
         }
     }
