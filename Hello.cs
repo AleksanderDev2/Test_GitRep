@@ -6,8 +6,6 @@ namespace _00.Demo
     {
         static void Main(string[] args)
         {
-            
-
             for (int i = 0; i < 99; i++)
             {
                 Console.WriteLine("Welcome to the Jungle", i);
